@@ -280,6 +280,7 @@ public class pacman {
         int i = 0;
         int j = 0;
 
+        System.out.println("======= Historial de Jugadores ======");
         System.out.print("No.    Usuario    Punteo");
         System.out.println(" ");
 
